@@ -1,6 +1,7 @@
 # 🍽️ GastroQuest: Gamified Food Discovery
 GastroQuest is a dynamic and visually engaging web application that combines the thrill of food discovery with the fun of gamification and social interaction. Users explore a world of food-based challenges—called "quests"—to unlock badges, earn points, level up, and share their food adventures with others in a playful, interactive environment.
-
+# Live Demo 
+https://zippy-youtiao-8b31da.netlify.app
 # 🎯 Concept
 GastroQuest transforms the way users engage with food. Instead of just browsing or reviewing dishes, users take part in themed food quests—like “Try something spicy,” “Explore a vegan meal,” or “Visit a new cuisine.” By completing these quests, users earn XP, coins, and badges, creating a fun feedback loop that keeps them coming back.
 
